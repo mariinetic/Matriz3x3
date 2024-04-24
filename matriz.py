@@ -17,3 +17,5 @@ if __name__ == "__main__":
     print('=' * 30)
     print("Sua matriz!")
     imprimir_matriz(matriz)
+
+#código base usado do curso em vídeo python
